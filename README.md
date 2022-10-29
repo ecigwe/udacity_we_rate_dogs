@@ -47,5 +47,5 @@ most favourite count comes from iphone
 
 ### Limitations
 
-over 1000 tweets dont contain dog stages
-come dogs dont have names
+1. over 1000 tweets dont contain dog stages
+2. come dogs dont have names
